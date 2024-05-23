@@ -1,4 +1,4 @@
-aluno = ["Drade", 4, 9.5, True]
+aluno = ["Drade", 96, 9.5, True]
 print(f"Nome: {aluno[0]}")
 print(f"Faltas: {aluno[1]}")
 print(f"Média: {aluno[2]}")
